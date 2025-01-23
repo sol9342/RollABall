@@ -26,6 +26,5 @@ public class InputManager : MonoBehaviour
         }
 
         OnMove?.Invoke(inputVector);
-        
     }
 }
